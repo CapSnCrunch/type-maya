@@ -48,7 +48,7 @@ blocks = {
     ],
     'square-square-horizontal': [
         {
-            'width': 50,
+            'width': 50+5,
             'height': 67,
             'origin': (0,0),
         },
@@ -59,8 +59,8 @@ blocks = {
         },
         {
             'width': 100,
-            'height': 33,
-            'origin': (0,67),
+            'height': 33+10,
+            'origin': (0,67-10),
         }
     ],
 }
